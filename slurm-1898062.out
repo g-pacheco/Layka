@@ -1,0 +1,16 @@
+  loading Assembly: tutorial
+  from saved path: ~/tutorial_ipyrad/tutorial.json
+
+ -------------------------------------------------------------
+  ipyrad [v.0.9.108]
+  Interactive assembly and analysis of RAD-seq data
+ ------------------------------------------------------------- 
+  Parallel connection | r1i2n0.npad.internal: 8 cores
+  
+  Step 7: Filtering and formatting output files 
+  [                    ]   0% 0:00:00 | applying filters       [                    ]   0% 0:00:00 | applying filters       [                    ]   0% 0:00:01 | applying filters       [                    ]   0% 0:00:01 | applying filters       [                    ]   0% 0:00:02 | applying filters       [                    ]   0% 0:00:02 | applying filters       [                    ]   0% 0:00:03 | applying filters       [                    ]   0% 0:00:03 | applying filters       [                    ]   0% 0:00:04 | applying filters       [                    ]   0% 0:00:04 | applying filters       [                    ]   0% 0:00:05 | applying filters       [                    ]   0% 0:00:05 | applying filters       [                    ]   0% 0:00:06 | applying filters       [                    ]   0% 0:00:06 | applying filters       [####################] 100% 0:00:07 | applying filters       
+  [                    ]   0% 0:00:00 | building arrays        [#############       ]  66% 0:00:00 | building arrays        [#############       ]  66% 0:00:01 | building arrays        [#############       ]  66% 0:00:01 | building arrays        [#############       ]  66% 0:00:02 | building arrays        [#############       ]  66% 0:00:02 | building arrays        [####################] 100% 0:00:03 | building arrays        
+  [                    ]   0% 0:00:00 | writing conversions    [##################  ]  90% 0:00:00 | writing conversions    [##################  ]  90% 0:00:01 | writing conversions    [##################  ]  90% 0:00:01 | writing conversions    [####################] 100% 0:00:02 | writing conversions    
+  [                    ]   0% 0:00:00 | indexing vcf depths    [####################] 100% 0:00:00 | indexing vcf depths    
+  [                    ]   0% 0:00:00 | writing vcf output     [####################] 100% 0:00:00 | writing vcf output     
+  Parallel connection closed.
