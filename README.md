@@ -21,14 +21,7 @@ This analysis was performed with the software [Plink](https://www.cog-genomics.o
 
 This analysis was performed with the software [Admixture](https://dalexander.github.io/admixture/) as described in [RunsAdmixture.sh](https://github.com/g-pacheco/Layka/blob/main/SBBE26_PopGen/Admixture/RunsAdmixture.sh).
 
-|Admixture|
-|---|
-|![Admixture](https://github.com/g-pacheco/Layka/blob/main/SBBE26_PopGen/Admixture/Admixture_Plot.jpeg)|
 
 |Admixture|
 |---|
 |![Admixture](https://github.com/g-pacheco/Layka/blob/main/SBBE26_PopGen/Admixture/Admixture_Plot.svg)|
-
-|Admixture|
-|---|
-|![Admixture](https://github.com/g-pacheco/Layka/blob/main/SBBE26_PopGen/Admixture/Admixture_Plot.png)|
