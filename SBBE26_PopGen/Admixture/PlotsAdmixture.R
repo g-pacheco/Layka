@@ -98,9 +98,16 @@ ngsAdmix <-
 # Saves plot ~
 ggsave(ngsAdmix, file = "Admixture_Plot.pdf",
        device = cairo_pdf, width = 3, height = 3, scale = 1, dpi = 600)
+
 ggsave(ngsAdmix, file = "Admixture_Plot.svg",
        width = 6, height = 6, scale = 1, dpi = 600)
 
+ngsAdmix_JPEG <- ngsAdmix + 
+  theme(text = element_text(size = 22))
+
+ggsave(ngsAdmix_JPEG, 
+       file = "PCA_Plot.jpeg", 
+       width = 3, height = 3, scale = 1, dpi = 600)
 
 #
 ##
