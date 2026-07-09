@@ -133,7 +133,8 @@ PCA_Plot <- ggarrange(PC_12_Plot, PC_13_Plot, nrow = 2, legend.grob = MyLegend, 
 # Saves plot ~
 ggsave(PCA_Plot, file = "PCA_Plot.pdf",
        device = cairo_pdf, scale = 1, width = 12, height = 8, dpi = 600)
-
+ggsave(PCA_Plot, file = "PCA_Plot.jpeg",
+       scale = 1, width = 12, height = 8, dpi = 600)
 
 #
 ##
