@@ -15,7 +15,7 @@ This analysis was performed with the software [Plink](https://www.cog-genomics.o
 
 |PCA|
 |---|
-|![PCA](https://github.com/g-pacheco/Layka/blob/main/SBBE26_PopGen/PCA/PCA_Plot.jpeg)|
+|![PCA](https://github.com/g-pacheco/Layka/blob/main/SBBE26_PopGen/PCA/PCA_Plot.pdf)|
 
 #### Estimation of Individual Ancestries
 
